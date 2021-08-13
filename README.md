@@ -32,9 +32,7 @@
 
 ### **IN-GAME SNAPSHOTS**
 
-<img width="216" alt="home" src="https://user-images.githubusercontent.com/62336310/129409197-be14292c-a4fc-4229-acf3-02bfe66de901.png"> <img width="224" alt="in-game" src="https://user-images.githubusercontent.com/62336310/129408994-4eb7db15-2380-43c4-a6ee-bf50dcb9d65f.png">
-<img width="230" alt="settings" src="https://user-images.githubusercontent.com/62336310/129409001-cfbb1357-768a-46a0-83ab-9dbdca573b85.png">
-<img width="229" alt="help" src="https://user-images.githubusercontent.com/62336310/129409006-617ab220-7de8-43aa-9ba5-d37407c606f8.png">
+<img width="216" alt="home" src="https://user-images.githubusercontent.com/62336310/129409197-be14292c-a4fc-4229-acf3-02bfe66de901.png"> <img width="224" alt="in-game" src="https://user-images.githubusercontent.com/62336310/129408994-4eb7db15-2380-43c4-a6ee-bf50dcb9d65f.png"> <img width="230" alt="settings" src="https://user-images.githubusercontent.com/62336310/129409001-cfbb1357-768a-46a0-83ab-9dbdca573b85.png"> <img width="229" alt="help" src="https://user-images.githubusercontent.com/62336310/129409006-617ab220-7de8-43aa-9ba5-d37407c606f8.png">
 
 <h4 align="center">
    All contributions are welcomed! :sunflower: 
